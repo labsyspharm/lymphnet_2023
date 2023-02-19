@@ -16,7 +16,7 @@ Lymphocytes are key to immune surveillance of tumors, but our understanding of t
 ## View image data online
 Some data is available as narrated data explorations (with text and audio narration) for anonymous on-line browsing using MINERVA software (Rashid et al., 2022), which allows users to pan and zoom through the images without requiring any software installation. 
 
-**To view the Minerva stories, please visit [https://tinyurl.com/mouseprofiling.](https://tinyurl.com/mouseprofiling.).**  
+**To view the Minerva stories, please visit [https://tinyurl.com/mouseprofiling](https://tinyurl.com/mouseprofiling).**  
 
 ## Funding
 Bridge Project (a partnership between Koch Institute for Integrative Cancer Research at MIT and Dana-Farber/Harvard Cancer Center (P.K.S., S.S., T.J.)), Ludwig Center at Harvard (P.K.S., S.S.), Ludwig Center for Molecular Oncology at MIT (M.L.B.), Gray Foundation, David Liposarcoma Research Initiative, R01-CA194005 (S.S.), R41-CA224503 (P.K.S.), U54-CA225088 (P.K.S., S.S.), T32-GM007748 (S.C.), T32-HL007627 (G.G.), HHMI (T.J.), American-Italian Cancer Foundation (G.G.), K99-CA256497 (A.J.N), Jane Coffin Childs Memorial Fund for Medical Research, and BWH President’s Scholar Award (S.S.). We thank DF/HCC for use of the Specialized Histopathology Core supported by P30-CA06516. This work was supported in part by the Koch Institute Support (core) Grant P30-CA014051. T.J. is a Daniel K. Ludwig Scholar.
