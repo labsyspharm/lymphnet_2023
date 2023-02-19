@@ -11,7 +11,9 @@ Lead contact: Sandro Santagata, ssantagata@bics.bwh.harvard.edu<br>
 <br>
 <img src="./docs/lymphnet_github.jpg" style="max-width:700px;width:100%">
 <br>
+
 ## SUMMARY
+
 <br>
 Lymphocytes are key to immune surveillance of tumors, but our understanding of the spatial organization and physical interactions that facilitate lymphocyte anti-cancer functions is limited. Here, we used multiplexed imaging, quantitative spatial analysis, and machine learning to create high-definition maps of tumor-bearing lung tissues from a Kras/p53 mouse model and human resections. Networks of interacting lymphocytes (‘lymphonets’) emerged as a distinctive feature of the anti-cancer immune response. Lymphonets nucleated from small T-cell clusters and incorporated B cells with increasing size. CXCR3-mediated trafficking modulated lymphonet size and number, but T-cell antigen expression directed intratumoral localization. Lymphonets preferentially harbored TCF1+PD1+ progenitor CD8 T cells involved in responses to immune checkpoint blockade (ICB) therapy. Upon treatment of mice with ICB or an antigen-targeted vaccine, lymphonets retained progenitor and gained cytotoxic CD8 T-cell populations, likely via progenitor differentiation. These data show that lymphonets create a spatial environment supportive of CD8 T-cell anti-tumor responses.
 <br>
