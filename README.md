@@ -18,6 +18,10 @@ Some data is available as narrated data explorations (with text and audio narrat
 
 **To view the Minerva stories, please visit [https://tinyurl.com/mouseprofiling](https://tinyurl.com/mouseprofiling).**  
 
+## Codes for imaging data processing
+
+Highplex Orion whole-slide images were processed using [MCMICRO](https://mcmicro.org/) modules with customizations to cope with the large X-Y dimension in the dataset. Registration of immunofluorescence images and H&E images was done with [PALOM](https://github.com/yu-anchen/palom).
+
 ## Funding
 Bridge Project (a partnership between Koch Institute for Integrative Cancer Research at MIT and Dana-Farber/Harvard Cancer Center (P.K.S., S.S., T.J.)), Ludwig Center at Harvard (P.K.S., S.S.), Ludwig Center for Molecular Oncology at MIT (M.L.B.), Gray Foundation, David Liposarcoma Research Initiative, R01-CA194005 (S.S.), R41-CA224503 (P.K.S.), U54-CA225088 (P.K.S., S.S.), T32-GM007748 (S.C.), T32-HL007627 (G.G.), HHMI (T.J.), American-Italian Cancer Foundation (G.G.), K99-CA256497 (A.J.N), Jane Coffin Childs Memorial Fund for Medical Research, and BWH President’s Scholar Award (S.S.). We thank DF/HCC for use of the Specialized Histopathology Core supported by P30-CA06516. This work was supported in part by the Koch Institute Support (core) Grant P30-CA014051. T.J. is a Daniel K. Ludwig Scholar.
 <br>
