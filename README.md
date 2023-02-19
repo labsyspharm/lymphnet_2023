@@ -3,8 +3,10 @@
 <br>
 Giorgio Gaglia*, Megan L. Burger*, Cecily C. Ritch, Danae Rammos, Yang Dai, Grace E. Crossland, Sara Z. Tavana, Simon Warchol, Alex M. Jaeger, Santiago Naranjo, Shannon Coy, Ajit J. Nirmal1, Robert Krueger, Jia-Ren Lin, Hanspeter Pfister, Peter K. Sorger†, Tyler Jacks†, Sandro Santagata†
 <br>
+<br>
 *These authors contributed equally<br>
 †Equal contribution, Senior authors<br>
+<br>
 Lead contact: Sandro Santagata, ssantagata@bics.bwh.harvard.edu<br> 
 <br>
 <img src="./docs/lymphnet_github.jpg" style="max-width:700px;width:100%">
