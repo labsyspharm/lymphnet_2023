@@ -59,7 +59,7 @@ Single cell tables, codes, and meta data are organized by each experimental data
 Each "Quantification" folder includes the following files:
 <br>
 
-*Results_Aggr_Date.mat
+* *Results_Aggr_Date.mat
 - Summarizes raw single cell IF data
 *Results_Norm_Date.mat
 - Summarizes normalized single cell IF data
