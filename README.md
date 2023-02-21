@@ -35,7 +35,28 @@ https://www.synapse.org/#!Synapse:syn30715952/wiki/617734.
 
 Results were saved as .mat files and include single cell data that summarize IF expression, cell morphology, and spatial features. 
 
-
+Single cell tables, codes, and meta data are organized by each experimental dataset using the following folder hierarchy: 
+<br>
+<br>
+|---&nbsp;Lung_Data
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset01-KP_LucOS_CXCL10_CyCIF
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---CyCIF_Experimental_Panel
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---MetaData
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---Quantification
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset02-KP_LucOS_CXCL10_RNAScope  
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset03-KP_LucOS_anti_PD1_CTLA4
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset04-KP_LucOS_Neoantigen_Vaccine
+<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset05-Human_Lung_Adenocarcinoma
+<br>
+<br>
 ## Funding
 Bridge Project (a partnership between Koch Institute for Integrative Cancer Research at MIT and Dana-Farber/Harvard Cancer Center (P.K.S., S.S., T.J.)), Ludwig Center at Harvard (P.K.S., S.S.), Ludwig Center for Molecular Oncology at MIT (M.L.B.), Gray Foundation, David Liposarcoma Research Initiative, R01-CA194005 (S.S.), R41-CA224503 (P.K.S.), U54-CA225088 (P.K.S., S.S.), T32-GM007748 (S.C.), T32-HL007627 (G.G.), HHMI (T.J.), American-Italian Cancer Foundation (G.G.), K99-CA256497 (A.J.N), Jane Coffin Childs Memorial Fund for Medical Research, and BWH President’s Scholar Award (S.S.). We thank DF/HCC for use of the Specialized Histopathology Core supported by P30-CA06516. This work was supported in part by the Koch Institute Support (core) Grant P30-CA014051. T.J. is a Daniel K. Ludwig Scholar.
 <br>
