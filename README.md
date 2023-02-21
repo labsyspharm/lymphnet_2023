@@ -9,7 +9,7 @@ Giorgio Gaglia*, Megan L. Burger*, Cecily C. Ritch, Danae Rammos, Yang Dai, Grac
 <br>
 Lead contact: Sandro Santagata, ssantagata@bics.bwh.harvard.edu<br> 
 <br>
-<img src="./docs/GA_Final.jpg" style="max-width:700px;width:50%">
+<img src="./docs/GA_Final.jpg" style="max-width:700px;width:100%">
 <br>
 
 ## SUMMARY
