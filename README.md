@@ -60,7 +60,7 @@ Each "Quantification" folder includes the following files:
 <br>
 
 * Results_Aggr_Date.mat<br>
--- Summarizes raw single cell IF data<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp-- Summarizes raw single cell IF data<br>
 * Results_Norm_Date.mat<br>
 -- Summarizes normalized single cell IF data<br>
 * Results_CellType_Date.mat<br>
