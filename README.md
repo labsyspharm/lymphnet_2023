@@ -56,7 +56,9 @@ Single cell tables, codes, and meta data are organized by each experimental data
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset05-Human_Lung_Adenocarcinoma
 <br>
 <br>
-Each "Quantification" folder includes the following files:<br>
+Each "Quantification" folder includes the following files:
+<br>
+
 *Results_Aggr_Date.mat
 - Summarizes raw single cell IF data
 *Results_Norm_Date.mat
