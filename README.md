@@ -59,10 +59,10 @@ Single cell tables, codes, and meta data are organized by each experimental data
 Each "Quantification" folder includes the following files:
 <br>
 
-* Results_Aggr_Date.mat
-- Summarizes raw single cell IF data
-*Results_Norm_Date.mat
-- Summarizes normalized single cell IF data
+* Results_Aggr_Date.mat<br>
+- Summarizes raw single cell IF data<br>
+*Results_Norm_Date.mat<br>
+- Summarizes normalized single cell IF data<br>
 *Results_CellType_Date.mat
 - Includes encoding of cell types for each cell within a dataset (based on hierarchical phenotyping performed on the CyCIF data)
 *Results_Net_Date.mat
