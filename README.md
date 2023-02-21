@@ -62,13 +62,13 @@ Each "Quantification" folder includes the following files:
 * Results_Aggr_Date.mat<br>
 -- Summarizes raw single cell IF data<br>
 * Results_Norm_Date.mat<br>
-- Summarizes normalized single cell IF data<br>
-* Results_CellType_Date.mat
-- Includes encoding of cell types for each cell within a dataset (based on hierarchical phenotyping performed on the CyCIF data)
-* Results_Net_Date.mat
-- Includes info on a single cell and network level
-- Tracks which cells are within a lymphocyte network
-- Includes results that summarize the size and composition of individual networks
+-- Summarizes normalized single cell IF data<br>
+* Results_CellType_Date.mat<br>
+-- Includes encoding of cell types for each cell within a dataset (based on hierarchical phenotyping performed on the CyCIF data)<br>
+* Results_Net_Date.mat<br>
+-- Includes info on a single cell and network level<br>
+-- Tracks which cells are within a lymphocyte network<br>
+-- Includes results that summarize the size and composition of individual networks<br>
 ## Funding
 Bridge Project (a partnership between Koch Institute for Integrative Cancer Research at MIT and Dana-Farber/Harvard Cancer Center (P.K.S., S.S., T.J.)), Ludwig Center at Harvard (P.K.S., S.S.), Ludwig Center for Molecular Oncology at MIT (M.L.B.), Gray Foundation, David Liposarcoma Research Initiative, R01-CA194005 (S.S.), R41-CA224503 (P.K.S.), U54-CA225088 (P.K.S., S.S.), T32-GM007748 (S.C.), T32-HL007627 (G.G.), HHMI (T.J.), American-Italian Cancer Foundation (G.G.), K99-CA256497 (A.J.N), Jane Coffin Childs Memorial Fund for Medical Research, and BWH President’s Scholar Award (S.S.). We thank DF/HCC for use of the Specialized Histopathology Core supported by P30-CA06516. This work was supported in part by the Koch Institute Support (core) Grant P30-CA014051. T.J. is a Daniel K. Ludwig Scholar.
 <br>
