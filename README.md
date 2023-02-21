@@ -49,7 +49,6 @@ Single cell tables, codes, and meta data are organized by each experimental data
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---Quantification
 <br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset02-KP_LucOS_CXCL10_RNAScope  
-<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset03-KP_LucOS_anti_PD1_CTLA4
 <br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Dataset04-KP_LucOS_Neoantigen_Vaccine
