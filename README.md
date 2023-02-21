@@ -31,7 +31,7 @@ Downstream analysis was performed on the single cell data using custom Matlab sc
 
 ## Data availability
 All summary data is located on Synapse.org in the following repository and organized by individual datasets: 
-https://www.synapse.org/#!Synapse:syn30715952/wiki/617734. 
+https://doi.org/10.7303/syn30715952. 
 
 Results were saved as .mat files and include single cell data that summarize IF expression, cell morphology, and spatial features. 
 
