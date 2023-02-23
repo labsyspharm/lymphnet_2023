@@ -14,6 +14,8 @@ Lead contact: Sandro Santagata, ssantagata@bics.bwh.harvard.edu<br>
 <br>
 
 Repository DOI: [doi.org/10.5281/zenodo.7670911](https://zenodo.org/badge/latestdoi/603834748)
+<br>
+Synapse DOI: [doi.org/10.7303/syn30715952](https://doi.org/10.7303/syn30715952)
 
 ## SUMMARY
 
