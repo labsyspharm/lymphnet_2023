@@ -12,7 +12,7 @@ Lead contact: Sandro Santagata, ssantagata@bics.bwh.harvard.edu<br>
 <br>
 <img src="./docs/GA_Final.jpg" style="max-width:700px;width:100%">
 <br>
-[![DOI](https://zenodo.org/badge/603834748.svg)](https://zenodo.org/badge/latestdoi/603834748)
+[Repository DOI: doi.org/10.5281/zenodo.7670911](https://zenodo.org/badge/latestdoi/603834748)
 
 ## SUMMARY
 
